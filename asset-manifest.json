@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NM-SWMS/static/css/main.e08b8d6d.css",
+    "main.js": "/NM-SWMS/static/js/main.a81b6b09.js",
+    "index.html": "/NM-SWMS/index.html",
+    "main.e08b8d6d.css.map": "/NM-SWMS/static/css/main.e08b8d6d.css.map",
+    "main.a81b6b09.js.map": "/NM-SWMS/static/js/main.a81b6b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08b8d6d.css",
+    "static/js/main.a81b6b09.js"
+  ]
+}
